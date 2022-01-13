@@ -1,3 +1,3 @@
-# POINTCLOUD RVIZ RELOAD
+# QT_ZIPPER
 
-Testing faster way to reload previous readed cloud into RViz. RViz are used inside Qt app.
+Implementing zip file with qt
